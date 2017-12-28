@@ -1,0 +1,15 @@
+﻿  MySnake.cpp
+e:\store\source code\mysnake\mysnake.cpp(387): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+e:\store\source code\mysnake\mysnake.cpp(537): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\store\source code\mysnake\mysnake.cpp(538): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\store\source code\mysnake\mysnake.cpp(653): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+e:\store\source code\mysnake\mysnake.cpp(667): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\store\source code\mysnake\mysnake.cpp(702): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\store\source code\mysnake\mysnake.cpp(736): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\store\source code\mysnake\mysnake.cpp(745): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\store\source code\mysnake\mysnake.cpp(822): warning C4101: “del”: 未引用的局部变量
+  MySnake.vcxproj -> E:\store\source code\MySnake\Debug\MySnake.exe
+  MySnake.vcxproj -> E:\store\source code\MySnake\Debug\MySnake.pdb (Full PDB)
